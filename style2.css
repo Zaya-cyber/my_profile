@@ -1,0 +1,45 @@
+body{
+	background-color: black !important;
+}
+
+.garchig{
+	font-size:40px;
+	color:white;
+	text-align:center;
+}
+.favo{
+	color:red;
+	padding-left:200px;
+}
+.favo i {
+    color: red; 
+    margin-left: 10px;
+}
+.favo h1{
+	margin-left:450px;
+}
+.favo2 h1{
+	margin-left:700px;
+	color:red;
+}
+.image-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+	margin-left:100px;
+}
+.custom-img {
+    margin-left: 20px; 
+    margin-top: 40px;   
+}
+.hover-text{
+	color:red;
+	margin-left:10px;
+	font-size:30px;
+}
+.zuraas {
+    border-bottom: 2px solid red;
+    margin-left: 700px;
+    width: 120px;
+	margin-top:20px;
+  }
